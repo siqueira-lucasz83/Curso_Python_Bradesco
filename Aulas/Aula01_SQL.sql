@@ -18,7 +18,7 @@ create table if not exists motoristas (
 );
 
 -- =========================
--- inserção de dados
+-- inserção dos dados
 -- =========================
 
 insert into motoristas (nome, rf, cnh, veiculo) values
