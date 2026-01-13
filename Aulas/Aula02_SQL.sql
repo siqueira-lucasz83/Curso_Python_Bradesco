@@ -25,7 +25,7 @@ where id = 3;
 select * from motoristas;
 
 -- =========================
--- alter table (alteração de estrutura)
+-- alter table (alteração da estrutura)
 -- =========================
 
 -- adicionar nova coluna
