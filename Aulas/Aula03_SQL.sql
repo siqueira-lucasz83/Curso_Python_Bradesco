@@ -131,7 +131,7 @@ group by v.modelo;
 -- indices
 -- =========================
 
--- indice para melhorar buscas por nome
+-- indice para melhorar buscas pelo nome
 create index idx_motoristas_nome
 on motoristas(nome);
 
